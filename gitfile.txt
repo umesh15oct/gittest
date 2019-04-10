@@ -1,0 +1,40 @@
+952  git config --global user.name "umesh15oct"
+  953  git config --global user.email "umesh.ies@gmail.com"
+  954  ll
+  955  mkdir gittest
+  956  cd gittest/
+  957  ll
+  958  echo "# gittest" >> README.md
+  959  ll
+  960  git init
+  961  git add README.md
+  962  git commit -m "first commit"
+  963  git remote add origin https://github.com/umesh15oct/gittest.git
+  964  git push -u origin master
+  965  servide httpd status
+  966  service httpd status
+  967  service httpd restart 
+  968  git push -u origin master
+  969  git remote add origin https://github.com/umesh15oct/gittest.git
+  970  git push -u origin master
+  971  service iptables stop
+  972  service httpd restart 
+  973  ]
+  974  git push -u origin master
+  975  git config --list
+  976  git push -u origin master
+  977  git remote -v
+  978  git remote set-url origin  https://github.com/umesh15oct/gittest.git
+  979  git remote -v
+  980  git push -u origin master
+  981  git remote set-url origin  http://github.com/umesh15oct/gittest.git
+  982  git push -u origin master
+  983  git remote set-url origin  http://umesh15oct@github.com/umesh15oct/gittest.git
+  984  git push -u origin master
+  985  vim abc.text
+  986  ls
+  987  git add abc.text 
+  988  git commit -m "i added abc.text"
+  989  git remote set-url origin  http://umesh15oct@github.com/umesh15oct/gittest.git
+  990  git push -u origin master
+ 
